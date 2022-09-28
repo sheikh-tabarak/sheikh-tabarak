@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sheikh-tabarak
 - 👨‍💼 I'm professionally working as a full stack Wordpress Developer
-- 👨‍💻 I'm fully expert in C++ | Java | Java Swing | SQL  
+- 👨‍💻 I'm fully expert in C++ | Java | Java Swing | SQL | C# | ASP.NET | HTML | CSS | JAVA SCRIPT  
 - 👀 I’m interested to learn | PHP | Python 
-- 🌱 I’m currently learning | C# | React js | Flutter | ASP.NET
+- 🌱 I’m currently learning  | React js | Flutter
 - 💞️ I’m looking to collaborate with you on Your Bussiness Projects
 - 📫 How to reach me on whatsapp +923154706237
 
