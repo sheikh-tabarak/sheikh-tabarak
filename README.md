@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/sheikh-tabarak/sheikh-tabarak/refs/heads/main/Muhammad%20Tabarak%20Profile%20Cover.png" alt="babel" width="1210px" />
-
+[<img src="https://raw.githubusercontent.com/sheikh-tabarak/sheikh-tabarak/refs/heads/main/Muhammad%20Tabarak%20Profile%20Cover.png" alt="babel" width="1210px" />
+](https://www.upwork.com/freelancers/~017ed24f96b80d5bca)
 <div align="left">
-   <a href="#">
+   <a href="https://github.com/sheikh-tabarak">
     <img src="https://komarev.com/ghpvc/?username=sheikh-tabarak&style=flat-square" alt="sheikh-tabarak" />
    </a>
 
@@ -38,7 +38,9 @@
 
   </div>
 
-<img src="https://raw.githubusercontent.com/sheikh-tabarak/sheikh-tabarak/main/Githubfooter.png" alt="babel" width="1300px" />
+  
+
+[<img src="https://raw.githubusercontent.com/sheikh-tabarak/sheikh-tabarak/main/Githubfooter.png" alt="babel" width="1300px" />](https://sheikhtabarak.me)
 
 <!---
 sheikh-tabarak/sheikh-tabarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
