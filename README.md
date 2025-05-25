@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/sheikh-tabarak/sheikh-tabarak/refs/heads/main/Muhammad%20Tabarak%20Profile%20Cover.png" alt="babel" width="1210px" />
+[<img src="https://raw.githubusercontent.com/sheikh-tabarak/sheikh-tabarak/refs/heads/main/1746055893876.jpeg" alt="babel" width="1210px" />
 ](https://www.upwork.com/freelancers/~017ed24f96b80d5bca)
 <div align="left">
    <a href="https://github.com/sheikh-tabarak">
@@ -7,12 +7,20 @@
 
 </div>
 
+<h2 > 🏅: Credibility Stats</h2>
+<p> 
+ <img src="https://img.shields.io/badge/Upwork-Top_Rated-blue?logo=upwork" style="width:170px;" alt="HTML"/>
+ <img src="https://img.shields.io/badge/Fiverr-Level_Two-blue?logo=fiverr" style="width:170px;" alt="HTML"/>
 
+</p> 
 <h2 > :pencil: Technical Skills</h2>
 <div style="display: flex;">
-  
+ 
+
 <p> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML"/>
+       
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"  alt="HTML"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
