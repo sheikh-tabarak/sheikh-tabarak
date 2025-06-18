@@ -7,13 +7,88 @@
 
 </div>
 
-<h2 > 🏅: Credibility Stats</h2>
+
+  
+
+
+
+# 👋 Hi, I'm Muhammad Tabarak
+
+**Top-rated Web App Developer | MERN Stack Specialist | Freelancer | Tech Enthusiast**
+
 <p> 
  <img src="https://img.shields.io/badge/Upwork-Top_Rated-blue?logo=upwork" style="width:170px;" alt="HTML"/>
  <img src="https://img.shields.io/badge/Fiverr-Level_Two-blue?logo=fiverr" style="width:170px;" alt="HTML"/>
 
 </p> 
-<h2 > :pencil: Technical Skills</h2>
+
+Welcome to my GitHub! I'm a passionate software engineer focused on building fast, scalable, and user-friendly web applications. With hands-on experience in full-stack development and a deep understanding of UI/UX, I help businesses turn ideas into reality through clean code and modern architecture.
+
+---
+
+## 📂 Featured Projects
+
+- 🔐 **[Trusts Advisor](https://trustsadvisor.com)** – Business Reputation Platform similar to Trustpilot   |   **[More Details](https://sheikhtabarak.me/portfolio/trusts-advisor)**
+- 📦 **[Cloud Maintain](https://cloudmaintain.sheikhtabarak.me)** – Assets & Maintenance Management SaaS    |   **[More Details](https://sheikhtabarak.me/portfolio/cloud-maintain)**
+- 🐶 **[ABC Puppy ZS](https://abcspuppyzs.com)** – Goldendoodles Adoption Portal for Texas-based Breeder    |     **[More Details](https://sheikhtabarak.me/portfolio/abcspuppyzs)**
+- 🛒 **[Jewellery Store Dashboard](https://www.youtube.com/watch?v=G77CRK4TJTE)** – Inventory & Sales App for Jewelry Businesses    |     **[More Details](https://sheikhtabarak.me/portfolio/jewellery-store-dashboard/)**  
+- 💰 **[Go Pay Here](https://go-payhere.sheikhtabarak.me/)** – Payment Method Sharing Tool using public link SaaS    |     **[More Details](https://sheikhtabarak.me/portfolio/gopayhere/)**  
+
+---
+
+## 🚀 What I Do
+
+### 🔧 Full-Stack Development
+End-to-end application development using:
+- React.js, Next.js
+- Node.js, Express.js
+- MongoDB, Mongoose
+- Tailwind CSS, Bootstrap
+
+### 🛠 Custom Web App Development
+Tailored dashboards, admin panels, client portals, CRMs, and business tools with:
+- Secure REST APIs
+- Real-time updates
+- Role-based access
+- Mobile responsiveness
+
+### 💻 SaaS Solution Development
+Helping founders turn SaaS ideas into reality with:
+- Scalable backend architecture
+- Subscription models
+- Stripe & PayPal integrations
+- User management and analytics
+
+### 🧩 CMS Development
+Professional and scalable CMS solutions:
+- WordPress (with Elementor)
+- Shopify (custom themes and apps)
+- Headless CMS + Frontend with Next.js
+
+### 🧠 System Design & Documentation
+Organizing technical structure with:
+- UML Diagrams (Use Case, Class, Sequence, Activity)
+- Domain Modeling
+- SRS Documents
+- API Documentation
+
+---
+
+## ⚙️ Skills Breakdown
+
+| Category                  | Technologies                                                                 |
+|--------------------------|------------------------------------------------------------------------------|
+| **Frontend**             | React.js, Next.js, Tailwind CSS, Bootstrap                                   |
+| **Backend**              | Node.js, Express.js, MongoDB, Mongoose                                       |
+| **Authentication**       | JWT, Role-based Access, Google Login                                 |
+| **Dev Tools & Integrations** | Stripe, PayPal, Crypto Payment, Google APIs, Google Maps, Firebase, REST and RESTful APIs     |
+| **CMS Platforms**        | WordPress, Elementor, Shopify, Sanity, Headless CMS                          |
+| **Deployment**           | Vercel, Netlify, Heroku, DigitalOcean, cPanel, Custom VPS (ubunto)    |
+| **Design & Documentation** | Figma, Draw.io, Mermaid.js, Star UML, MS Visio, Plant UML, Markdown, Swagger          |
+
+---
+
+## :pencil: Technical Skills</h2>
 <div style="display: flex;">
  
 
@@ -46,11 +121,19 @@
 
   </div>
 
-  
+
+---
+
+## 📫 Let's Connect
+
+- ✉️ Email: hello@sheikhtabarak.me
+- 🌍 Portfolio: [sheikhtabarak.me/portfolio](https://sheikhtabarak.me/portfolio)
+- ✍️ Blogs: [sheikhtabarak.me/blog](https://sheikhtabarak.me/blog/) - Tech Talks with Muhammad Tabarak
+
+- 🔗 [LinkedIn](https://linkedin.com/in/sheikhtabarak) | [Instagram](https://instagram.com/sheikhtabarak.me) | [Behance](https://www.behance.net/sheikhtabarak) | [Fiverr](https://www.fiverr.com/sheikhtabarak) | [Upwork](https://www.upwork.com/freelancers/~017ed24f96b80d5bca)
+
+---
+
+_“Code is not just syntax, it’s a solution.”_
 
 [<img src="https://raw.githubusercontent.com/sheikh-tabarak/sheikh-tabarak/main/Githubfooter.png" alt="babel" width="1300px" />](https://sheikhtabarak.me)
-
-<!---
-sheikh-tabarak/sheikh-tabarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
