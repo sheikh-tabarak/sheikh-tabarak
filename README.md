@@ -8,9 +8,12 @@
 
 # 👋 Hey Founder, I'm Muhammad Tabarak
 
-⭐⭐⭐⭐⭐ 4.9/5  
-"Great developer, great attention to detail. Highly recommended."  
-– **Noah**, Founder **@TrustsAdvisor**
+⭐⭐⭐⭐⭐ **4.9 / 5**
+
+> "Great developer, great attention to detail. Highly recommended."
+
+– **Noah**, CoFounder **@TrustsAdvisor**  
+
 
 I’m Tabarak — your next favorite developer. I build **MVPs & SaaS apps** that founders love, and my client reviews speak louder than I ever could.  
 
