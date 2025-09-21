@@ -150,7 +150,7 @@ I’ve worked with startups & companies like **Trusts Advisor, Curved, Cloud Mai
 - ✉️ Email: hello@sheikhtabarak.me  
 - 🌍 Portfolio: [sheikhtabarak.me/portfolio](https://sheikhtabarak.me/portfolio)  
 - ✍️ Blogs: [sheikhtabarak.me/blog](https://sheikhtabarak.me/blog/)  
-- 🔗 [Follow on LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sheikhtabarak) | [Instagram](https://instagram.com/sheikhtabarak.me) | [Behance](https://www.behance.net/sheikhtabarak) | [Fiverr](https://www.fiverr.com/sheikhtabarak) | [Upwork](https://www.upwork.com/freelancers/~017ed24f96b80d5bca)  
+- 🔗 [Follow on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sheikhtabarak) | [Instagram](https://instagram.com/sheikhtabarak.me) | [Behance](https://www.behance.net/sheikhtabarak) | [Fiverr](https://www.fiverr.com/sheikhtabarak) | [Upwork](https://www.upwork.com/freelancers/~017ed24f96b80d5bca)  
 
 ---
 
