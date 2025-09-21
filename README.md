@@ -12,7 +12,7 @@
 
 > "Great developer, great attention to detail. Highly recommended."
 
-– **Noah**, CoFounder **@TrustsAdvisor**  
+**Noah**, CoFounder **@TrustsAdvisor**  
 
 
 I’m Tabarak — your next favorite developer. I build **MVPs & SaaS apps** that founders love, and my client reviews speak louder than I ever could.  
@@ -101,19 +101,20 @@ I’ve worked with startups & companies like **Trusts Advisor, Curved, Cloud Mai
 ## Client Testimonials
 
 > "Tabarak was supportive and always on my side, he even spent 6 hours with me to finish the project on deadline."  
-– Simon Bychykhin, CEO @Iuvenis  
+
+**Simon Bychykhin**, CEO **@Iuvenis** 
 
 > "I highly recommend Tabarak to anyone seeking top-notch services."  
-– Bricks Coggin, Founder CPA, PLLC @AbcsPuppyZs  
 
-> "Fantastic developer, I was away for a longer period of time but he still managed to do fantastic work without much instructions which was very convenient. I can highly recommend him!"  
-– Patrick Rippster, CoFounder @Intellcraft AI  
+**Bricks Coggin**, Founder CPA, PLLC **@AbcsPuppyZs** 
+
+> "Fantastic developer, I was away for a longer period of time but he still managed to do fantastic work without much instructions which was very convenient. I can highly recommend him!"
+> 
+**Patrick Rippster**, CoFounder **@Intellcraft AI**
 
 > "He had a very good feeling of what I needed and delivered it perfectly. Allowed me to make changes along the way and educated me, too when I wanted. I am very happy with the work he has done."  
-– Berkay Karahacioglu, Founder @Aspire Turkey  
 
-> "Great developer, great attention to detail. Highly recommended."  
-– Noah Merriby, Founder @TrustsAdvisor
+**Berkay Karahacioglu**, Founder **@Aspire Turkey**
 
 #### Explore more here.
 
